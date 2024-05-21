@@ -1,0 +1,16 @@
+.body{
+    padding-top: 100px;
+
+    text-align: center;
+}
+
+.color-box{
+    margin-top: 50px;
+    color:white;
+    background-color: red;
+    border-radius: 215px;
+    border: none;
+    height: 100px;
+    width: 200px;
+    font-size: 17px;
+}
